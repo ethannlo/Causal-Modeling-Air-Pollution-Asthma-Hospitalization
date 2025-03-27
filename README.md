@@ -39,6 +39,8 @@ The analysis integrates data from multiple sources, totaling over 200M observati
 ## Results
 The model demonstrates a statistically significant relationship between increased pollution levels and higher asthma hospitalization rates, with confounder adjustments improving model accuracy. 
 
+*see [AirPolution-Asthma.ipynb](AirPolution-Asthma.ipynb) for visualizations*
+
 --- 
 
 ## Future Work
